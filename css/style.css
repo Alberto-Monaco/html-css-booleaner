@@ -48,6 +48,7 @@ body {
 .intestazione {
   background-color: rgb(99, 99, 255);
   color: white;
+  cellspacing:0px;
 }
 
 .name {
