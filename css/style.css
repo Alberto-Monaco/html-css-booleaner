@@ -1,7 +1,11 @@
 body{
     margin: auto;
-    padding-left: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 #boolean {
     color: blue;
+}
+.didascal{
+    font-size:x-small;
 }
