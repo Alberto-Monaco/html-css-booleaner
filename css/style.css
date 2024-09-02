@@ -104,3 +104,7 @@ body{
 li{
     margin-left: -20px;
 }
+#font_table{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:17px;
+}
