@@ -15,3 +15,15 @@ body{
 #evidenzia_2{
     background-color: yellow;
 }
+#foot{
+    color: rgb(95, 95, 95);
+    font
+}
+.imagefnt{
+    background-image: url(../img/monitor.jpg);
+    margin: 0px, 50px, 30px, 20px;
+
+}
+.imagefnt2{
+    background-image:url(../img/graph.jpg);
+}
