@@ -31,8 +31,9 @@ body {
 }
 
 .imagefnt2 {
+    image-resolution: 200px;
   color: white;
-  background-image: url(../img/graph.jpg);
+  background-image:  url(../img/graph.jpg);
 }
 
 .intestazione {
