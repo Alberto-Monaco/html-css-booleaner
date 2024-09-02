@@ -1,110 +1,91 @@
-body{
-    margin: auto;
-    padding-left: 100px;
-    padding-right: 100px;
+body {
+  margin: auto;
+  padding-left: 100px;
+  padding-right: 100px;
 }
+
 #boolean {
-    color: blue;
+  color: blue;
 }
-.didascal{
-    font-size:x-small;
+
+.didascal {
+  font-size: x-small;
 }
-#evidenzia{
-    background-color: yellow;
+
+#evidenzia {
+  background-color: yellow;
 }
-#evidenzia_2{
-    background-color: yellow;
+
+#evidenzia_2 {
+  background-color: yellow;
 }
-#foot{
-    color: rgb(95, 95, 95);
-    font
+
+#foot {
+  color: rgb(95, 95, 95);
 }
+
 .imagefnt {
-    color: white ;
-    background-image: url(../img/monitor.jpg);
+  color: white;
+  background-image: url(../img/monitor.jpg);
+  
 }
+
 .imagefnt2 {
-    color: white ;
-    background-image: url(../img/graph.jpg);
+  color: white;
+  background-image: url(../img/graph.jpg);
 }
-.intestazione{
-    background-color: blue;
+
+.intestazione {
+  background-color: rgb(99, 99, 255);
+  color: white;
 }
 
 .name {
-    background-color: blue;
-    width: 30%;
-    display: inline-block;
-    color: white;
-  }
-  .name2 {
-    background-color: blue;
-    width: 30%;
-    display: inline-block;
-    color: white;
+  background-color: blue;
+  width: 30%;
+  text-align: start;
 
-  }
-  .name3 {
-    background-color: blue;
-    width: 35%;
-    display: inline-block;
-    color: #ffffff;
-  }
-  .azzurra{
-    background-color: rgb(164, 209, 252);
-   
-   
+  color: white;
 }
 
-.azzurra1 {
+.name2 {
+  background-color: blue;
+  width: 30%;
+  text-align: start;
 
-    width: 30%;
-    display: inline-block;
-    color: rgb(0, 0, 0);
-  }
-  .azzurra2 {
-
-    width: 30%;
-    display: inline-block;
-    color: rgb(0, 0, 0);
-
-  }
-  .azzurra3 {
-
-    width: 35%;
-    display: inline-block;
-    color: rgb(0, 0, 0);
-  }
-
-
-  .bianca{
-    background-color: rgb(255, 255, 255);
+  color: white;
 }
 
-.bianca1 {
+.name3 {
+  background-color: blue;
+  width: 35%;
+  text-align: start;
 
-    width: 30%;
-    display: inline-block;
-    color: rgb(0, 0, 0);
-  }
-  .bianca2 {
-
-    width: 30%;
-    display: inline-block;
-    color: rgb(0, 0, 0);
-
-  }
-  .bianca3 {
-
-    width: 35%;
-    display: inline-block;
-    color: rgb(0, 0, 0);
-  }
-
-li{
-    margin-left: -20px;
+  color: #ffffff;
 }
-#font_table{
-    font-family: 'Times New Roman', Times, serif;
-    font-size:17px;
+
+.azzurra {
+  background-color: rgb(164, 209, 252);
+  text-align: center;
+  text-align: start;
+}
+
+.bianca {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  text-align: start;
+}
+
+li {
+  margin-left: -20px;
+}
+
+#font_table {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 0px;
 }
