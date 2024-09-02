@@ -19,14 +19,13 @@ body{
     color: rgb(95, 95, 95);
     font
 }
-.imagefnt{
-    margin-bottom: height: 200px;
+.imagefnt {
+    color: white ;
     background-image: url(../img/monitor.jpg);
-
-
 }
-.imagefnt2{
-    background-image:url(../img/graph.jpg);
+.imagefnt2 {
+    color: white ;
+    background-image: url(../img/graph.jpg);
 }
 .intestazione{
     background-color: blue;
