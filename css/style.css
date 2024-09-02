@@ -20,10 +20,88 @@ body{
     font
 }
 .imagefnt{
+    margin-bottom: height: 200px;
     background-image: url(../img/monitor.jpg);
-    margin: 0px, 50px, 30px, 20px;
+
 
 }
 .imagefnt2{
     background-image:url(../img/graph.jpg);
+}
+.intestazione{
+    background-color: blue;
+}
+
+.name {
+    background-color: blue;
+    width: 30%;
+    display: inline-block;
+    color: white;
+  }
+  .name2 {
+    background-color: blue;
+    width: 30%;
+    display: inline-block;
+    color: white;
+
+  }
+  .name3 {
+    background-color: blue;
+    width: 35%;
+    display: inline-block;
+    color: #ffffff;
+  }
+  .azzurra{
+    background-color: rgb(164, 209, 252);
+   
+   
+}
+
+.azzurra1 {
+
+    width: 30%;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+  }
+  .azzurra2 {
+
+    width: 30%;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+
+  }
+  .azzurra3 {
+
+    width: 35%;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+  }
+
+
+  .bianca{
+    background-color: rgb(255, 255, 255);
+}
+
+.bianca1 {
+
+    width: 30%;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+  }
+  .bianca2 {
+
+    width: 30%;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+
+  }
+  .bianca3 {
+
+    width: 35%;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+  }
+
+li{
+    margin-left: -20px;
 }
